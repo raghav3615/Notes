@@ -2,6 +2,7 @@
   "name": "Notes",
   "version": "1.0.0",
   "description": "A minimal to-do list application focused on productivity and developer needs.",
+  "type": "module",
   "main": "src/main.tsx",
   "scripts": {
     "dev": "vite",
